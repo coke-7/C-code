@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CCC\\10.28\\",
+  "WorkspaceRootPath": "D:\\CODE_GitHub\\C-code\\10.28\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F28E21B9-047D-49D1-8E46-DA8231698AC3}|10.28\\10.28.vcxproj|D:\\CCC\\10.28\\10.28\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F28E21B9-047D-49D1-8E46-DA8231698AC3}|10.28\\10.28.vcxproj|solutionrelative:10.28\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CODE_GitHub\\C-code\\10.28\\10.28\\10.28.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:10.28\\10.28.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CODE_GitHub\\C-code\\10.28\\10.28\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:10.28\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u6E90.c",
-              "DocumentMoniker": "D:\\CCC\\10.28\\10.28\\\u6E90.c",
-              "RelativeDocumentMoniker": "10.28\\\u6E90.c",
-              "ToolTip": "D:\\CCC\\10.28\\10.28\\\u6E90.c",
-              "RelativeToolTip": "10.28\\\u6E90.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-28T14:40:02.3Z",
+              "Title": "10.28.vcxproj",
+              "DocumentMoniker": "D:\\CODE_GitHub\\C-code\\10.28\\10.28\\10.28.vcxproj",
+              "RelativeDocumentMoniker": "10.28\\10.28.vcxproj",
+              "ToolTip": "D:\\CODE_GitHub\\C-code\\10.28\\10.28\\10.28.vcxproj",
+              "RelativeToolTip": "10.28\\10.28.vcxproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2025-10-29T13:57:58.646Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "D:\\CODE_GitHub\\C-code\\10.28\\10.28\\\u6E90.c",
+              "RelativeDocumentMoniker": "10.28\\\u6E90.c",
+              "ToolTip": "D:\\CODE_GitHub\\C-code\\10.28\\10.28\\\u6E90.c",
+              "RelativeToolTip": "10.28\\\u6E90.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-28T14:40:02.3Z"
             }
           ]
         }
